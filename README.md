@@ -37,8 +37,11 @@ A modern **E-Commerce Android application** built using **Kotlin** and **Jetpack
    ```bash
    git clone https://github.com/lainoor21/BlazeShopSite
 
-   https://drive.google.com/file/d/1LlAmPhx2DkvFjB6MttfhV0Alb8qOlvF7/view?usp=drive_link
+  
 
 
+
+
+https://github.com/user-attachments/assets/8d959803-644a-435c-9d5a-bff5d9beb82d
 
 
